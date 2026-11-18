@@ -37,8 +37,8 @@ go version #verify at least 1.18
 
 Build Pwndrop:
 ```
-git clone https://github.com/Sygnia/pwndrop.git
-cd pwndrop
+git clone https://github.com/An0nUD4Y/pwndrop-v2.git
+cd pwndrop-v2
 make build
 ls build/
 ```
@@ -139,7 +139,7 @@ Then do the following:
 
 ```
 sudo apt-get -y install git make
-git clone https://github.com/kgretzky/pwndrop
+git clone https://github.com/An0nUD4Y/pwndrop-v2.git
 cd pwndrop
 make
 make install
